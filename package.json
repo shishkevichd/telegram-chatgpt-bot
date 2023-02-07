@@ -1,0 +1,32 @@
+{
+  "name": "telegram-chatgpt-bot",
+  "version": "1.0.0",
+  "description": "ChatGPT bot for Telegram",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shishkevichd/telegram-chatgpt-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "chat",
+    "gpt",
+    "chatgpt",
+    "telegram",
+    "api"
+  ],
+  "author": "Shishkevich Danil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shishkevichd/telegram-chatgpt-bot/issues"
+  },
+  "homepage": "https://github.com/shishkevichd/telegram-chatgpt-bot#readme",
+  "dependencies": {
+    "chatgpt": "^4.1.2",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
