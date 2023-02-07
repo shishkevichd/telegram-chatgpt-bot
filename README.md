@@ -4,7 +4,7 @@ ChatGPT in your Telegram.
 
 ## Demo
 
-![github/demonstration.gif](Demo)
+![github/demonstration.gif](github/demonstration.gif)
 
 ## Install
 
