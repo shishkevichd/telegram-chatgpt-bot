@@ -1,7 +1,7 @@
 import TelegramBot from "node-telegram-bot-api";
 import fs from "fs";
 import { ChatGPTAPI } from "chatgpt";
-import CGBHelper from "./helper.js";
+import CGBHelper from "./bot/helper.js";
 
 // -=-=-=-=-=-
 // Setting bot
