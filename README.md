@@ -6,6 +6,12 @@ ChatGPT in your Telegram.
 
 ![github/demonstration.gif](github/demonstration.gif)
 
+## Features
+
+- [X] Basic Features of ChatGPT
+- [X] User whitelist
+- [ ] Markdown parsing
+
 ## Install
 
 1. Prepare machine

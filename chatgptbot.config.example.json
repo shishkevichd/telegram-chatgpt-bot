@@ -1,8 +1,7 @@
 {
     "whitelist": [],
     "options": {
-        "maxIncomingRequests": 1,
-        "replyOnRequest": false
+        "maxIncomingRequests": 1
     },
     "tokens": {
         "telegram": "<telegram bot token>",
