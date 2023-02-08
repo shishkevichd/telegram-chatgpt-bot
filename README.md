@@ -47,4 +47,3 @@ Ready!
 
 - [node-telegram-bot-api](https://www.npmjs.com/package/node-telegram-bot-api)
 - [chatgpt](https://www.npmjs.com/package/chatgpt)
-- [showdown](https://www.npmjs.com/package/showdown)
