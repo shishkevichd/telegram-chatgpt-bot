@@ -8,10 +8,10 @@ ChatGPT in your Telegram.
 
 ## Features
 
-- [X] Basic Features of ChatGPT
-- [X] User whitelist
-- [X] Select prefered language
-- [ ] Markdown parsing
+- Basic Features of ChatGPT
+- User whitelist
+- Select prefered language
+- Change models (`text-davinci-003`, `text-curie-001` and etc.) for user
 
 ## Install
 

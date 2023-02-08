@@ -105,3 +105,6 @@ dist
 
 # ChatGptBot config
 chatgptbot.config.json
+
+# ChatGptBot config folder
+config

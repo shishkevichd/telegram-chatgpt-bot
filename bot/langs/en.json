@@ -3,5 +3,7 @@
     "messageWaiting": "Okay, please wait...",
     "errorMessage": "The bot was unable to send a request to ChatGPT.",
     "takeTimeMessage": "Take your time, wait for the bot to respond to your requests.",
-    "botWorksOnPrivateMessage": "The bot doesn't work in groups and channels."
+    "botWorksOnPrivateMessage": "The bot doesn't work in groups and channels.",
+    "changeModelCommandDescription": "Set current model",
+    "changeModelSuccess": "You set current model: `{model}`"
 }

@@ -3,5 +3,7 @@
     "messageWaiting": "Пожалуйста подождите...",
     "errorMessage": "Бот не смог обработать ваш вопрос.",
     "takeTimeMessage": "Подождите, пока бот ответит на ваше сообщение.",
-    "botWorksOnPrivateMessage": "Бот работает только в приватном чате."
+    "botWorksOnPrivateMessage": "Бот работает только в приватном чате.",
+    "changeModelCommandDescription": "Сменить модель ChatGPT",
+    "changeModelSuccess": "Вы сменили модель на: `{model}`"
 }

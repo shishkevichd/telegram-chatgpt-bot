@@ -1,4 +1,4 @@
-import Config from "./config.js";
+import { Config } from "./config.js";
 import fs from "fs";
 
 export default class Language {
