@@ -1,6 +1,7 @@
 {
     "whitelist": [],
     "options": {
+        "language": "en",
         "maxIncomingRequests": 1
     },
     "tokens": {

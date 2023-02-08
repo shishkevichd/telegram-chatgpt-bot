@@ -1,0 +1,7 @@
+{
+    "startMessage": "Hello, i'm ChatGPT bot! I can answer on your questions.",
+    "messageWaiting": "Okay, please wait...",
+    "errorMessage": "The bot was unable to send a request to ChatGPT.",
+    "takeTimeMessage": "Take your time, wait for the bot to respond to your requests.",
+    "botWorksOnPrivateMessage": "The bot doesn't work in groups and channels."
+}

@@ -10,6 +10,7 @@ ChatGPT in your Telegram.
 
 - [X] Basic Features of ChatGPT
 - [X] User whitelist
+- [X] Select prefered language
 - [ ] Markdown parsing
 
 ## Install
@@ -46,3 +47,4 @@ Ready!
 
 - [node-telegram-bot-api](https://www.npmjs.com/package/node-telegram-bot-api)
 - [chatgpt](https://www.npmjs.com/package/chatgpt)
+- [showdown](https://www.npmjs.com/package/showdown)
