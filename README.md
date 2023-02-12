@@ -39,7 +39,7 @@ npm install
 ```
 8. Run bot:
 ```bash
-npm run dev
+npm run start
 ```
 Ready!
 
