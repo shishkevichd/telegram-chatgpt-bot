@@ -1,0 +1,10 @@
+{
+  "startMessage": "❇ Hello! I am a ChatGPT. I'll be happy to help you resolve any issues.",
+  "messageWaiting": "⏳ Okay, please wait...",
+  "errorMessage": "❌ The bot was unable to send a request to ChatGPT.",
+  "takeTimeMessage": "⏲ Take your time, wait for the bot to respond to your requests.",
+  "botWorksOnPrivateMessage": "❌ The bot doesn't work in groups and channels.",
+  "changeModelCommandDescription": "Set current model",
+  "changeModelSuccess": "✅ You set current model: `{model}`",
+  "changeModelNotFound": "❌ Model not found.\n\n💬 Available models:\n{models}"
+}

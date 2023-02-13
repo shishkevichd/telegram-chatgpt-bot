@@ -1,11 +1,7 @@
 {
-    "whitelist": [],
-    "options": {
-        "language": "en",
-        "maxIncomingRequests": 1
-    },
-    "tokens": {
-        "telegram": "<telegram bot token>",
-        "openai": "<openai token>"
-    }
+  "whitelist": [],
+  "tokens": {
+    "telegram": "<telegram bot token>",
+    "openai": "<openai token>"
+  }
 }
